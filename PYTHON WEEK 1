@@ -1,0 +1,7 @@
+# user_input.py
+# asking for user input and storing it in variables
+name =input("please write your name:")
+age =input("write your age:" )
+location =input("enter your location:")
+# printing out a personalized message
+print(f"hello {name} you are {age} old and live in {location}")
